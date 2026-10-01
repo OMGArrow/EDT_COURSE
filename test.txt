@@ -1,1 +1,3 @@
 Example text for checking Git
+
+Next commit!
