@@ -3,4 +3,15 @@ Example text for checking Git
 Next commit!
 
 
-Комментарий: Это уже следующий commit!!!!ИСПРАВЛЕНО!!!!!!!!ИСПРАВЛЕНО!!!!!!!!ИСПРАВЛЕНО!!!!!
+Комментарий: Это уже следующий commit!
+
+Priem na raboty
+
+Kadroviy perevod
+
+Uvolnenie
+
+
+NEW STRING
+
+NEW STRING1
