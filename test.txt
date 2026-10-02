@@ -10,3 +10,8 @@ Priem na raboty
 Kadroviy perevod
 
 Uvolnenie
+
+
+NEW STRING
+
+NEW STRING1
